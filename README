@@ -1,0 +1,7 @@
+# install 
+# pip install "fastapi[all]"" # FastAPI
+# WSGI sever 
+# pip install uvicorn[standard]
+####################################
+# run 
+# 让服务器在更新代码后重新启动。仅在开发时使用该选项。
